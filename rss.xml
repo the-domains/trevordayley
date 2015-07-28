@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trevordayley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 19:21:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jul 2015 19:26:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trevordayley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why You Should Embrace Being the Underdog | Fstoppers]]></title>
+            <description><![CDATA[<article><h1>Why You Should Embrace Being the Underdog | Fstoppers</h1><p>Do you ever feel like a "small fry" compared to the "big names" that are established in your area? Ever wonder if you are missing out on business because you don't have the same accolades on your website? Rather than let that get you down, why not embrace being the underdog, after all it has a lot of advantages!</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/full/s3/media/2015/01/fstoppers-embrace-the-underdog-1.jpg"></article>]]></description>
+            <link>https://fstoppers.com/business/why-you-should-embrace-being-underdog-54878</link>
+            <guid isPermaLink="false">024e2dc1-5102-4ac5-b3c9-6a1a53494c38</guid>
+            <pubDate>Tue, 28 Jul 2015 19:26:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e65cc01e-a64e-4d99-80ac-88b7393a14f5.jpg">]]></description>
-            <link>undefined07e87544-b018-4eaa-a259-7480518b2568/index.html</link>
+            <link>https://thegrid.ai/trevordayley/07e87544-b018-4eaa-a259-7480518b2568/index.html</link>
             <guid isPermaLink="false">07e87544-b018-4eaa-a259-7480518b2568</guid>
             <pubDate>Tue, 28 Jul 2015 19:21:02 GMT</pubDate>
         </item>
