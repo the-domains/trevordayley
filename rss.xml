@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/trevordayley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 19:39:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2015 19:39:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trevordayley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Favorite New Photography Tool When I Travel | Fstoppers]]></title>
+            <description><![CDATA[<article><h1>My Favorite New Photography Tool When I Travel | Fstoppers</h1><p>I have had the privilege of traveling all over the world as a photographer and love shooting photos of locals. They always light up seeing the images of themselves. However, I realized that while they loved seeing the images on the back of my camera, I was missing something important.</p><img src="https://d1w5usc88actyi.cloudfront.net/wp-content/uploads/2013/07/2013-07-17_00011.jpg"></article>]]></description>
+            <link>https://fstoppers.com/originals/my-favorite-new-photography-tool-when-i-travel-2749</link>
+            <guid isPermaLink="false">f4a2ddb2-ad3e-4469-8905-2ab8fba2f078</guid>
+            <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Keyboard Shortcuts Worth Learning for the Crop Tool in Lightroom | Fstoppers]]></title>
             <description><![CDATA[<article><h1>Keyboard Shortcuts Worth Learning for the Crop Tool in Lightroom | Fstoppers</h1><p>I am a keyboard shortcut junkie. Anytime I can find a way to do something quicker using a keyboard shortcut I will force myself to use it for a few days till I have built it into my workflow. A few of my favorite keyboard shortcuts are found in the Lightroom Crop Tool.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/large/s3/wp-content/uploads/2013/05/Fstoppers-Lightroom-Crop-Tool-Tips.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://fstoppers.com/video/how-easily-time-sync-your-files-lightroom-3271</link>
             <guid isPermaLink="false">7ab4f2aa-538c-4a53-846e-2da545255bd6</guid>
             <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why You Should Embrace Being the Underdog | Fstoppers]]></title>
-            <description><![CDATA[<article><h1>Why You Should Embrace Being the Underdog | Fstoppers</h1><p>Do you ever feel like a "small fry" compared to the "big names" that are established in your area? Ever wonder if you are missing out on business because you don't have the same accolades on your website? Rather than let that get you down, why not embrace being the underdog, after all it has a lot of advantages!</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/full/s3/media/2015/01/fstoppers-embrace-the-underdog-1.jpg"></article>]]></description>
-            <link>https://fstoppers.com/business/why-you-should-embrace-being-underdog-54878</link>
-            <guid isPermaLink="false">024e2dc1-5102-4ac5-b3c9-6a1a53494c38</guid>
-            <pubDate>Tue, 28 Jul 2015 19:26:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
