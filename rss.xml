@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/trevordayley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 19:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2015 20:04:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trevordayley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Justin & Chelsa]]></title>
+            <description><![CDATA[<article><h1>Justin & Chelsa</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/892756d2-cee1-44df-a8cc-6c7c84c521a6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/trevordayley/ff31da1b-1697-415f-a244-7ff11cb1e8c5/index.html</link>
+            <guid isPermaLink="false">ff31da1b-1697-415f-a244-7ff11cb1e8c5</guid>
+            <pubDate>Tue, 28 Jul 2015 20:04:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Simple Way to Change the Color of the Sky in Camera]]></title>
             <description><![CDATA[<article><h1>A Simple Way to Change the Color of the Sky in Camera</h1><p>Have you ever been excited to photograph someone around sunset only to discover that Mother Nature wasn't playing nice? Instead of a beautiful sunset, you were dealt a grey drab sky as your backdrop. There is a way and it's actually quite simple to pull off.</p><img src="http://www.slrlounge.com/wp-content/uploads/2014/04/Enhancing-the-color-of-the-sky-using-gels.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Simple Tip To Mastering Off-Camera Flash (2-Min Read) | Fstoppers</h1><p>Over the last 12-months there has been a surge of photographers wanting to learn off-camera flash. Regularly I receive emails or Facebook messages from other photographers asking for tips. Over the years I have tried to remember what made learning off-camera flash so easy for me and time and time again it comes down to one simple tip.</p><img src="https://d1w5usc88actyi.cloudfront.net/wp-content/uploads/2014/03/Trevor-Dayley-Simple-Tips-to-Mastering-Off-Camera-Flash-2.jpg"></article>]]></description>
             <link>https://fstoppers.com/bts/simple-tip-mastering-camera-flash-2-min-read-7992</link>
             <guid isPermaLink="false">1d813095-99a9-485e-acb3-c4602a5a8ba6</guid>
-            <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Lightroom Export Presets to Speed Up Your Workflow | Fstoppers]]></title>
-            <description><![CDATA[<article><h1>Using Lightroom Export Presets to Speed Up Your Workflow | Fstoppers</h1><p>Often when we are editing in Lightroom we find ourselves doing the same tasks over and over again. The key to speeding up your workflow is finding ways to minimize the amount of steps it takes to do these regular tasks and fortunately Lightroom gives us many options to do this.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/large/s3/wp-content/uploads/2014/01/Fstoppers-Lightroom-Export-Preset.jpg"></article>]]></description>
-            <link>https://fstoppers.com/post-production/using-lightroom-export-presets-speed-your-workflow-8284</link>
-            <guid isPermaLink="false">8c8f2f9a-3577-456c-a619-a3a5a31f2f29</guid>
             <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
         </item>
     </channel>
