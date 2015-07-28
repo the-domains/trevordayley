@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/trevordayley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 19:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2015 19:39:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trevordayley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Keyboard Shortcuts Worth Learning for the Crop Tool in Lightroom | Fstoppers]]></title>
+            <description><![CDATA[<article><h1>Keyboard Shortcuts Worth Learning for the Crop Tool in Lightroom | Fstoppers</h1><p>I am a keyboard shortcut junkie. Anytime I can find a way to do something quicker using a keyboard shortcut I will force myself to use it for a few days till I have built it into my workflow. A few of my favorite keyboard shortcuts are found in the Lightroom Crop Tool.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/large/s3/wp-content/uploads/2013/05/Fstoppers-Lightroom-Crop-Tool-Tips.jpg"></article>]]></description>
+            <link>https://fstoppers.com/post-production/keyboard-shortcuts-worth-learning-crop-tool-lightroom-3106</link>
+            <guid isPermaLink="false">1c39bfcc-c40e-44c2-8859-e8270c9c9847</guid>
+            <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Effective Tips on Using the Lightroom Adjustment Brush | Fstoppers]]></title>
             <description><![CDATA[<article><h1>Effective Tips on Using the Lightroom Adjustment Brush | Fstoppers</h1><p>Lightroom is a software full of useful tools, but more often than not I see photographers not taking full advantage of them and resorting to do simple edits in other programs such as Photoshop. I put together this short 7 minute video covering some useful tips on using one of my favorite tools to quickly enhance my photos in Lightroom - The Adjustment Brush.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/large/s3/wp-content/uploads/2013/06/Fstoppers-Lightroom-Trevor-Dayley.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://fstoppers.com/business/why-you-should-embrace-being-underdog-54878</link>
             <guid isPermaLink="false">024e2dc1-5102-4ac5-b3c9-6a1a53494c38</guid>
             <pubDate>Tue, 28 Jul 2015 19:26:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e65cc01e-a64e-4d99-80ac-88b7393a14f5.jpg">]]></description>
-            <link>https://thegrid.ai/trevordayley/07e87544-b018-4eaa-a259-7480518b2568/index.html</link>
-            <guid isPermaLink="false">07e87544-b018-4eaa-a259-7480518b2568</guid>
-            <pubDate>Tue, 28 Jul 2015 19:21:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
