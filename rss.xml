@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/trevordayley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 19:40:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2015 19:40:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trevordayley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Using Lightroom Export Presets to Speed Up Your Workflow | Fstoppers]]></title>
+            <description><![CDATA[<article><h1>Using Lightroom Export Presets to Speed Up Your Workflow | Fstoppers</h1><p>Often when we are editing in Lightroom we find ourselves doing the same tasks over and over again. The key to speeding up your workflow is finding ways to minimize the amount of steps it takes to do these regular tasks and fortunately Lightroom gives us many options to do this.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/large/s3/wp-content/uploads/2014/01/Fstoppers-Lightroom-Export-Preset.jpg"></article>]]></description>
+            <link>https://fstoppers.com/post-production/using-lightroom-export-presets-speed-your-workflow-8284</link>
+            <guid isPermaLink="false">8c8f2f9a-3577-456c-a619-a3a5a31f2f29</guid>
+            <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Five Great Ways To Customize Your 5D Mark III | Fstoppers]]></title>
             <description><![CDATA[<article><h1>Five Great Ways To Customize Your 5D Mark III | Fstoppers</h1><p>You finally got that Canon 5D Mark III camera you have been desiring and now you are trying to figure out how best to take advantage of all it's great new features. Here are five ways I have customized my camera to best fit my needs while shooting weddings, events and portraits.</p><img src="https://d1w5usc88actyi.cloudfront.net/wp-content/uploads/2013/12/5D-Mark-III-Customizations-Fstoppers-Trevor-Dayley-15.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>My Favorite New Photography Tool When I Travel | Fstoppers</h1><p>I have had the privilege of traveling all over the world as a photographer and love shooting photos of locals. They always light up seeing the images of themselves. However, I realized that while they loved seeing the images on the back of my camera, I was missing something important.</p><img src="https://d1w5usc88actyi.cloudfront.net/wp-content/uploads/2013/07/2013-07-17_00011.jpg"></article>]]></description>
             <link>https://fstoppers.com/originals/my-favorite-new-photography-tool-when-i-travel-2749</link>
             <guid isPermaLink="false">f4a2ddb2-ad3e-4469-8905-2ab8fba2f078</guid>
-            <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keyboard Shortcuts Worth Learning for the Crop Tool in Lightroom | Fstoppers]]></title>
-            <description><![CDATA[<article><h1>Keyboard Shortcuts Worth Learning for the Crop Tool in Lightroom | Fstoppers</h1><p>I am a keyboard shortcut junkie. Anytime I can find a way to do something quicker using a keyboard shortcut I will force myself to use it for a few days till I have built it into my workflow. A few of my favorite keyboard shortcuts are found in the Lightroom Crop Tool.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/large/s3/wp-content/uploads/2013/05/Fstoppers-Lightroom-Crop-Tool-Tips.jpg"></article>]]></description>
-            <link>https://fstoppers.com/post-production/keyboard-shortcuts-worth-learning-crop-tool-lightroom-3106</link>
-            <guid isPermaLink="false">1c39bfcc-c40e-44c2-8859-e8270c9c9847</guid>
             <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
         </item>
     </channel>
