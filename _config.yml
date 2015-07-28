@@ -16,14 +16,14 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#383838'
-    - '#808080'
-    - '#bebebe'
-    - '#ffffff'
+    - '#0a050c'
+    - '#3a3d34'
+    - '#818262'
+    - '#fcf9f2'
+    - '#c8b79b'
   brandStrength: 0.1875
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.5625
   rhythmicContrast: 0.5
 purpose:
   - name: shares
