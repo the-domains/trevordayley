@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/trevordayley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 19:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2015 19:40:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trevordayley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Another Useful Lightroom Tip Your Mom Never Taught You | Fstoppers]]></title>
+            <description><![CDATA[<article><h1>Another Useful Lightroom Tip Your Mom Never Taught You | Fstoppers</h1><p>Adobe Lightroom is a program full of many different little tips and tricks just waiting to be discovered. In this short video I show you one of my favorites which allows you to apply a selective focus technique to your photo without having to open it in Photoshop.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/full/s3/media/2014/09/aaa_trevordayley-0017_0.jpg"></article>]]></description>
+            <link>https://fstoppers.com/originals/another-useful-lightroom-tip-your-mom-never-taught-you-35836</link>
+            <guid isPermaLink="false">0120a6a0-db18-4836-b1e2-b3515c92c782</guid>
+            <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are You Taking Advantage Of The Survey View in Lightroom? | Fstoppers]]></title>
             <description><![CDATA[<article><h1>Are You Taking Advantage Of The Survey View in Lightroom? | Fstoppers</h1><p>Like Photoshop, Lightroom is a powerful piece of software. Sadly most of us learn the basics and don't take advantage of all that is has to offer. One powerful feature is called the "Survey View." Are you taking advantage of it?</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/full/s3/media/2014/09/fstoppers-survey-mode-lightroom-2.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Download Multiple Cards At Once With This Workflow Solution | Fstoppers</h1><p>You've been out shooting for 12 hours, you've got 4 cards full of data, it's midnight, and you have another shoot first thing in the morning. Wouldn't it be nice to have a solution that allows you to pop all those cards in a reader at one time thereby getting your download done 4x faster than if you did it with one card reader.</p><img src="https://d1w5usc88actyi.cloudfront.net/wp-content/uploads/2013/11/Fstoppers-Lexar-Card-Reader-Solution-card-readers.jpg"></article>]]></description>
             <link>https://fstoppers.com/gear/download-multiple-cards-once-workflow-solution-8645</link>
             <guid isPermaLink="false">b0553899-ddb4-4af7-a0fd-ed9dcf970ddc</guid>
-            <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Size Your Images So They Show Their Best on Facebook | Fstoppers]]></title>
-            <description><![CDATA[<article><h1>How To Size Your Images So They Show Their Best on Facebook | Fstoppers</h1><p>Just about every day I read a comment from a photographer complaining about Facebook making their images look terrible. There are hundreds of websites that have done tests and posted results to show what they feel is the best resolution to post your images to Facebook.</p><img src="https://d1w5usc88actyi.cloudfront.net/wp-content/uploads/2013/09/Fstoppers-How-To-Size-Your-Photos-Best-for-Facebook-Trevor-Dayley-1.jpg"></article>]]></description>
-            <link>https://fstoppers.com/wedding/how-size-your-images-so-they-show-their-best-facebook-2993</link>
-            <guid isPermaLink="false">232d8ab6-c90d-45b3-bc69-5b3c363c9380</guid>
             <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
         </item>
     </channel>
