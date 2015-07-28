@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/trevordayley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 19:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2015 19:58:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trevordayley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Simple Way to Change the Color of the Sky in Camera]]></title>
+            <description><![CDATA[<article><h1>A Simple Way to Change the Color of the Sky in Camera</h1><p>Have you ever been excited to photograph someone around sunset only to discover that Mother Nature wasn't playing nice? Instead of a beautiful sunset, you were dealt a grey drab sky as your backdrop. There is a way and it's actually quite simple to pull off.</p><img src="http://www.slrlounge.com/wp-content/uploads/2014/04/Enhancing-the-color-of-the-sky-using-gels.jpg"></article>]]></description>
+            <link>http://www.slrlounge.com/simple-way-change-color-sky-camera/</link>
+            <guid isPermaLink="false">566546db-a93f-4ab5-9d1c-4e50c7170632</guid>
+            <pubDate>Tue, 28 Jul 2015 19:58:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Give Your Colors a Nice Kick With This Lightroom Trick | Fstoppers]]></title>
             <description><![CDATA[<article><h1>Give Your Colors a Nice Kick With This Lightroom Trick | Fstoppers</h1><p>The great thing about the program Lightroom is that there are usually a number of different ways to accomplish a task. In this video I show you one fantastic way to create some nice colors in your photo by using a slider tool that you might not have even touched before.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/full/s3/media/2014/09/screen_shot_2014-09-25_at_3.07.23_pm.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Using Lightroom Export Presets to Speed Up Your Workflow | Fstoppers</h1><p>Often when we are editing in Lightroom we find ourselves doing the same tasks over and over again. The key to speeding up your workflow is finding ways to minimize the amount of steps it takes to do these regular tasks and fortunately Lightroom gives us many options to do this.</p><img src="https://d1w5usc88actyi.cloudfront.net/styles/large/s3/wp-content/uploads/2014/01/Fstoppers-Lightroom-Export-Preset.jpg"></article>]]></description>
             <link>https://fstoppers.com/post-production/using-lightroom-export-presets-speed-your-workflow-8284</link>
             <guid isPermaLink="false">8c8f2f9a-3577-456c-a619-a3a5a31f2f29</guid>
-            <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five Great Ways To Customize Your 5D Mark III | Fstoppers]]></title>
-            <description><![CDATA[<article><h1>Five Great Ways To Customize Your 5D Mark III | Fstoppers</h1><p>You finally got that Canon 5D Mark III camera you have been desiring and now you are trying to figure out how best to take advantage of all it's great new features. Here are five ways I have customized my camera to best fit my needs while shooting weddings, events and portraits.</p><img src="https://d1w5usc88actyi.cloudfront.net/wp-content/uploads/2013/12/5D-Mark-III-Customizations-Fstoppers-Trevor-Dayley-15.jpg"></article>]]></description>
-            <link>https://fstoppers.com/other/five-great-ways-customize-your-5d-mark-iii-8396</link>
-            <guid isPermaLink="false">ec0bcc63-fdd1-4d5c-94da-b989d949e005</guid>
             <pubDate>Tue, 28 Jul 2015 19:38:43 GMT</pubDate>
         </item>
     </channel>
